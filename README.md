@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cheesidibbl
 - 👀 I’m interested in ... coding and games
-- 🌱 I’m currently learning ... CSS javascript, java, and HTML 
+- 🌱 I’m currently learning ... CSS javascript, javascript, HTML, and SQL.
 - 💞️ I’m looking to collaborate on ... anything I can
 - 📫 How to reach me ... You can't contact me just yet (I don't think)
 - 😄 Pronouns: ... He/Him
