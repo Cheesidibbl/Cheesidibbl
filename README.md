@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
 </div>
-<a href="https://app.daily.dev/cheesidibbl"><img src="https://api.daily.dev/devcards/v2/5rIAx68v8ikFNUwNTSS9d.png?r=cvf&type=default" width="356" alt="Zachary Zawadzki's Dev Card"/></a>
+
 
 ### :fire: My Stats :
 ![Cheesidibb1's Stats](https://github-readme-stats.vercel.app/api?username=Cheesidibb1&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
