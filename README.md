@@ -4,7 +4,7 @@
 
 - :hand: Hi, I’m @Cheesidibbl
 - :eyes: I’m interested in ... coding
-- :brain: I’m currently learning ... CSS javascript, javascript, HTML, and SQL.
+- :brain: I’m currently learning ... C++.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
